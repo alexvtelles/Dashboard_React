@@ -1,7 +1,7 @@
 # Painel admin React JS
 
 <br>
-Vamos criar um Dashboar ou Painel administativo do zero. Onde usaremos o React, Material UI, Nivo Charts, Formik, Yup, FullCalendar e Data Grid, essas serão as libs que usaremos nessa construção. Essa aplicação terá o modo Light e Dark, com 4 diferentes gráficos, 3 páginas de tabelas com dados diferentes. Páginas de perguntas e respostas frequentes, uma página de formulário e integração de calendário.
+Painel administativo do zero. Onde usaremos o React, Material UI, Nivo Charts, Formik, Yup, FullCalendar e Data Grid, essas serão as libs que usaremos nessa construção. Essa aplicação terá o modo Light e Dark, com 4 diferentes gráficos, 3 páginas de tabelas com dados diferentes. Páginas de perguntas e respostas frequentes, uma página de formulário e integração de calendário.
 
   <br>
 <hr>
@@ -10,9 +10,14 @@ Vamos criar um Dashboar ou Painel administativo do zero. Onde usaremos o React, 
 ## Nosso projeto
 
 <br>
+
 <img src="./src/assets/dashboard.png">
+
 <br>
-<hr><br>
+
+<hr>
+
+<br>
   O que vamos usar?<br><br>
 
 - Vite:<br>
