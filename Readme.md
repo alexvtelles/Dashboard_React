@@ -5,9 +5,8 @@ Painel administativo do zero. Onde usaremos o React, Material UI, Nivo Charts, F
 
   <br>
 <hr>
-<br>
 
-## Nosso projeto
+### Nosso projeto
 
 <br>
 
