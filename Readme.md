@@ -5,14 +5,14 @@ Vamos criar um Dashboar ou Painel administativo do zero. Onde usaremos o React, 
 
   <br>
 <hr>
-<br><br>
+<br>
 
 ## Nosso projeto
 
 <br>
 <img src="./src/assets/dashboard.png">
-<br><br><br>
-<hr><br><br>
+<br>
+<hr><br>
   O que vamos usar?<br><br>
 
 - Vite:<br>
